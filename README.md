@@ -1,7 +1,7 @@
 # Codveda Internship – Frontend Task Submissions
 
  📌 About
-This repository contains my official submissions for the Codveda Frontend Internship Program.  
+This repository contains my official submissions for the **Codveda Frontend Internship Program**.  
 It includes 3 selected tasks demonstrating responsive design, JavaScript interactivity, and modern frontend development using React.
 
 
