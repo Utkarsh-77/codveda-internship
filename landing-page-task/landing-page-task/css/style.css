@@ -167,7 +167,7 @@ footer {
 }
 
 @media (min-width: 1024px) {
-  /* Larger screens — more spacing */
+  
   body {
     font-size: 18px;
   }
